@@ -10,5 +10,7 @@ project/
 ├── static/
 │   └── audio/                # Contains generated .mp3 files
 ├── templates/
-│   └── index.html            # Frontend web page
+│   └── index.html       # Frontend web page
+├── words.txt containswords for suggestion
+ 
 ```
